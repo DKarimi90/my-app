@@ -1,0 +1,13 @@
+{
+    "blogs": [
+        {"title": "My new Website", "body": "lorem ipsum", 
+        "author": "mario", "id": 1
+    },
+        {"title": "My new Website", 
+        "body": "lorem ipsum", "author": "mario", "id": 1
+    },
+        {"title": "My new Website", 
+        "body": "lorem ipsum", "author": "mario", "id": 1
+    }
+    ]
+}
